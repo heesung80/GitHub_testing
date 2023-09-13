@@ -1,0 +1,4 @@
+test1 - with outlier -poselabel all 0
+test2 - normalized - without outlier - poselabel based on reference line
+test3 - trained by other data
+test4 - trained by other data
